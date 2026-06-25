@@ -43,6 +43,7 @@ Once the browser finds the IP address, it can can contact the server.
 **Handshake/opening the pipe/opening connection**
 
 It performs **3 way handshake**
+<img width="1284" height="1244" alt="image" src="https://github.com/user-attachments/assets/9b87a51c-4add-4689-846f-59c6a7a82467" />
 
 
 Think of it like talking on a phone:
